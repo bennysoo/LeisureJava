@@ -1,0 +1,332 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>Asurion Japan K.K., Tokyo, Japan</title>
+
+<meta name="description" content="Handset Protection, Remote Support, Asurion Care, NEW services">
+<meta name="keywords" content="Handset, Protection, Remote, Support, AsurionCare, NEW">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="../css/common.css">
+<link rel="stylesheet" href="../css/colorbox.css">
+<link rel="stylesheet" href="../css/outline.css">
+<link rel="shortcut icon" href="../favicon.png">
+<link rel="apple-touch-icon" href="../apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="72x72" href="../apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="../apple-touch-icon-114x114.png">
+
+</head>
+
+<body id="eng">
+
+
+<!-- header =========================== -->
+
+<div id="header" class="header-default">
+<div class="inner">
+
+<h1><a href="#home">Asurion Japan K.K.</a></h1>
+<p class="menu"><a href="#">Menu</a></p>
+<ul>
+<li><a href="#home">Home</a></li>
+<li><a href="#outline">About us</a></li>
+<li><a href="#service01">Services</a></li>
+<li><a href="#news">News</a></li>
+<li><a href="career.html">Careers</a></li>
+<li><a href="#contact">Contact Us</a></li>
+<li><a href="../">&#26085;&#26412;&#35486;</a></li>
+</ul>
+
+<!-- /.inner --></div>
+<!-- /#header --></div>
+
+
+
+<!-- home =========================== -->
+
+<div id="home">
+
+<ul>
+
+<li class="slide slide1">
+<h1>Connecting with people regardless of time</h1>
+<p><em>Mobile Protection / Remote Support</em></p>
+</li>
+
+<li class="slide slide2">
+<h1>Accidents will happen without warning.</h1>
+<p><em>Mobile Protection / Remote Support</em></p>
+</li>
+
+<li class="slide slide3">
+<h1>We deliver a peace of mind with speed</h1>
+<p><em>Mobile Protection / Remote Support</em></p>
+</li>
+
+<!--li class="slide slide4">
+<h1>Connecting with people anytime, anywhere...</h1>
+<p><em>Mobile Protection / Remote Support</em></p>
+</li-->
+
+</ul>
+
+<p class="next"><a href="#outline">Next</a></p>
+
+<!-- /#home --></div>
+
+
+
+<!-- outline =========================== -->
+
+<div id="outline">
+<div class="inner main">
+
+<div id="ttlOutline01">
+<h1 style="font-size: 3.1em;">Asurion supports mobile users around the globe.</h1>
+<!-- /#ttlOutline01 --></div>
+
+<div class="row" id="animation-2">
+<div class="col-md-4 col-sm-4">
+<div class="animation-container" id="people-helped">
+<div id="blue-man-container"><img alt="Asurion helps people" src="../images/asurion-men-blue.png"> <img alt="Asurion helps people" src="../images/asurion-men-blue.png"> <img alt="Asurion helps people" src="../images/asurion-men-blue.png"> <img alt="Asurion helps people" src="../images/asurion-men-blue.png"></div>
+<h6>280 million customers</h6>
+<p>Asurion Group operates in 49 locations throughout 14 countries.  We support and provide resassurance to over 280 million customers worldwide. (Asurion total, as of 2015).</p>
+</div>
+</div>
+
+<div class="col-md-4 col-sm-4">
+<div class="animation-container" id="next-business-day">
+<div id="boxes-container"><img src="../images/asurion-box.png" alt="Asurion box" class="boxes"> <img src="../images/asurion-box.png" alt="Asurion box" class="boxes"> <img src="../images/asurion-box.png" alt="Asurion box" class="boxes"> <img src="../images/asurion-box.png" alt="Asurion box" class="boxes"> <img src="../images/asurion-box.png" alt="Asurion box" class="boxes"> <img src="../images/asurion-box.png" alt="Asurion box" class="boxes"> <img src="../images/asurion-box.png" alt="Asurion box" class="boxes"> <img src="../images/asurion-box.png" alt="Asurion box" class="boxes"> <img src="../images/asurion-box.png" alt="Asurion box" class="boxes"></div>
+<h6>96%</h6>
+<p>Mobile devices are integral part of our life.  Our aim is to exceed customers expectations by delivering  the replacement device as quickly as possible,  We have  been able to achieve next-day delivery rate of 96%. (Asurion US survey, as of 2014).
+</p>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="animation-container" id="stars">
+<div id="stars-container"><img alt="Asurion review star" class="star" src="../images/asurion-star.png"> <img alt="Asurion review star" class="star" src="../images/asurion-star.png"> <img alt="Asurion review star" class="star" src="../images/asurion-star.png"> <img alt="Asurion review star" class="star" src="../images/asurion-star.png"> <img alt="Asurion review star" class="star" src="../images/asurion-half-star.png"></div>
+<h6>4.7</h6>
+<p>We have received an average of 4.7 on a 5 star scale for customer satisfaction rating from over 2 million customers. We will continue to make every effort to satisfy our customers. (Asurion US survey, as of 2015).</p>
+</div>
+</div>
+</div>
+
+<div class="nav">
+
+<div id="itemOutline01">
+<p><a class="iframe" href="modal_about01.html"><img src="../images/btn_outline_01.png" alt="" width="218" height="218" class="front"><img src="../images/btn_outline_01_o.png" alt="" width="218" height="218" class="back"><img src="../images/spacer.png" alt="" width="218" height="218"></a></p>
+<dl>
+<dt>About Us</dt>
+<dd>Company Information, Leaders</dd>
+</dl>
+<!-- /#itemOutline01 --></div>
+
+<div id="itemOutline02">
+<p><a class="iframe" href="modal_about02.html"><img src="../images/btn_outline_02.png" alt="" width="218" height="218" class="front"><img src="../images/btn_outline_02_o.png" alt="" width="218" height="218" class="back"><img src="../images/spacer.png" alt="" width="218" height="218"></a></p>
+<dl>
+<dt>Asurion Group</dt>
+<dd>Group Information,<br>
+History, Main Clients</dd>
+</dl>
+<!-- /#itemOutline02 --></div>
+
+<div id="itemOutline03">
+<p><a class="iframe" href="modal_about03.html"><img src="../images/btn_outline_03.png" alt="" width="218" height="218" class="front"><img src="../images/btn_outline_03_o.png" alt="" width="218" height="218" class="back"><img src="../images/spacer.png" alt="" width="218" height="218"></a></p>
+<dl>
+<dt>Asurion Map</dt>
+<dd>Areas where<br />Asurion offers its products </dd>
+</dl>
+<!-- /#itemOutline03 --></div>
+
+<!-- /.nav --></div>
+
+<!-- /.inner --></div>
+<!-- /#outline --></div>
+
+
+
+
+<!-- service01 =========================== -->
+
+<div id="service01">
+
+<h1>Our Services</h1>
+<p>We quickly resolve any kinds of users' mobile phone, smartphone, PC related issues.</p>
+
+<div class="nav">
+
+<ul>
+<li id="itemService01"><a class="iframe" href="./modal_project01.html"><img src="../images/eng/btn_service_01.png" alt="Mobile Protection" width="212" height="212" class="front"><img src="../images/btn_service_01_o.png" alt="Mobile Protection" width="212" height="212" class="back"><img src="../images/spacer.png" alt="" width="212" height="212"></a></li>
+<li id="itemService02"><a class="iframe" href="./modal_project02.html"><img src="../images/eng/btn_service_02.png" alt="Remote Support" width="212" height="212" class="front"><img src="../images/btn_service_02_o.png" alt="Remote Support" width="212" height="212" class="back"><img src="../images/spacer.png" alt="" width="212" height="212"></a></li>
+<!-- <li id="itemService03"><a class="iframe" href="./modal_project03.html"><img src="../images/eng/btn_service_03.png" alt="Collect and repair / Setting support service" width="212" height="212" class="front"><img src="../images/btn_service_03_o.png" alt="Collect and repair / Setting support service" width="212" height="212" class="back"><img src="../images/spacer.png" alt="" width="212" height="212"></a></li> -->
+</ul>
+
+<!-- /.nav --></div>
+
+<!-- /#service01 --></div>
+
+
+
+
+<!-- service02 =========================== -->
+
+<div id="service02">
+<div class="inner">
+
+<ul>
+<li class="carousel01"><span>For various incidents<br />that can happen<br />to your handset</span></li>
+<li class="carousel02"><span>We handle each & every case accurately,</span></li>
+<li class="carousel03"><span>And quickly</span></li>
+<li class="carousel04"><span>To keep you connected</span></li>
+</ul>
+
+<!-- /.inner --></div>
+<!-- /#service02 --></div>
+
+
+
+<!-- news =========================== -->
+
+<div id="news">
+<div class="inner">
+
+<h1>News</h1>
+<p>News and Updates from Asurion, Asurion Japan and partnership with NTT DOCOMO, INC.</p>
+
+<div class="main">
+
+<dl class="asurionj">
+<dt>Mar. 2016</dt>
+<dd>As of March 15th, 2016, Asurion Japan K.K. merged NEW Japan K.K.<br>
+Asurion Japan will take over all of NEW Japan operations and will make its utmost efforts to further improve our services.</dd>
+</dl>
+
+<dl class="ntt">
+<dt>Sept. 2015</dt>
+<dd>Subscribers of Mobile Phone Protection & Delivery Service hit the 40 million mark.</dd>
+</dl>
+
+<dl class="asurion">
+<dt>Apr. 2015</dt>
+<dd>Asurion Expands into Latin America with Am&eacute;rica M&oacute;vil Providing comprehensive mobile protection for Mexico's leading wireless provider, Telcel</dd>
+</dl>
+
+<!-- /.main --></div>
+
+<div class="archive">
+
+<div class="asurionj">
+<h2>News on Asurion Japan</h2>
+<dl>
+<dt>Mar. 2014</dt>
+<dd>On 10 March, Tokyo Head Office has moved</dd>
+<dt>Feb. 2014</dt>
+<dd>Asurion Japan K.K. celebrated 10th year anniversary of its foundation</dd>
+<dt>Jul. 2012</dt>
+<dd>NEW Japan K.K., an affiliate company of the Asurion Group, became a wholly-owned subsidiary of Asurion.</dd>
+<dt>Jul. 2011</dt>
+<dd>Launched Asurion Japan's original<br>services Asurion Care.</dd>
+</dl>
+<!-- /.asurionj --></div>
+
+<div class="ntt">
+<h2>Partnership with NTT DOCOMO.</h2>
+<dl>
+<dt>Feb. 2015</dt>
+<dd>Subscribers of Smartphone Anshin Remote Support hit the 10million mark.</dd>
+<dt>Dec. 2013</dt>
+<dd>Launched Mobile Phone Protection &amp; Delivery Service for iPhone.</dd>
+<dt>Mar. 2012</dt>
+<dd>Operation of Smartphone Anshin Remote Support entrusted by NTT DOCOMO, INC.</dd>
+<dt>Dec. 2010</dt>
+<dd>Subscribers of Mobile Phone Protection &amp; Delivery Service hit the 30 million mark.</dd>
+</dl>
+<!-- /.ntt --></div>
+
+<div class="asurion">
+<h2>News on Asurion</h2>
+<dl>
+<dt>Jan. 2015</dt>
+<dd>Hewlett Packard has selected Asurion as a winner of its 2014 Visionary Award for "Most Innovative Customer Engagement"</dd>
+<dt>May 2014</dt>
+<dd>Asurion announced plans to open a Premier Support Solutions call center in Las Vegas.</dd>
+<dt>May 2014</dt>
+<dd>Asurion was awarded with Confirmit's highest customer service honor, the <a href="https://www.asurion.com/about/press-releases/confirmit-achievement-in-customer-excellence-award/">Achievement in Customer Excellence (ACE)</a> .</dd>
+</dd>
+</dl>
+<!-- /.asurion --></div>
+
+<!-- /.archive --></div>
+
+<!-- /.inner --></div>
+<!-- /#news --></div>
+
+
+
+
+<!-- footer =========================== -->
+
+<div id="footer">
+<div class="home">
+<div class="nav">
+<ul>
+<li><a href="#home">Home</a></li>
+<li><a href="#outline">About us</a></li>
+<li><a href="#service01">Services</a></li>
+<li><a href="#news">News</a></li>
+<li><a href="career.html">Careers</a></li>
+<li><a href="#contact">Contact Us</a></li>
+<li><a class="iframe" href="modal_terms.html">Terms of service</a></li>
+<li><a class="iframe" href="../modal_policy.html">Privacy policy</a></li>
+</ul>
+<p><img src="../images/ceo.jpg" alt="" width="210" height="240"></p>
+<dl>
+<dt>Kiyohito Nagata, CEO</dt>
+<dd>Mobile communication devices, such as mobile phones and smart phones have become an indispensable part of our daily lives that is it difficult to imagine our lives without them.<br />Asurion Japan's mission is to dedicate our utmost effort to enable customers to use their devices with reassurance over lifetime. We are committed to delivering the best possible service to our customers.</dd>
+</dl>
+<!-- /.nav --></div>
+
+<div id="contact" class="contact">
+
+<h1>Contact Us</h1>
+<p class="lead">Reviews / Requests / Inquires</p>
+
+<!-- /.contact --></div>
+
+<div class="copyright">
+<h1>Asurion Japan K.K.</h1>
+
+<address>Ark Hills South Tower 10F<br>
+1-4-5, Roppongi, Minato-ku, Tokyo, 106-0032<br>
+phone:03-4540-9001</address>
+<p>Copyright &copy; Asurion Japan K.K. All rights reserved.</p>
+<!-- /.copyright --></div>
+<!-- /.home --></div>
+<!-- /#footer --></div>
+
+
+
+<!-- [ SCRIPTS ] -->
+
+<script src="../js/libs/jquery-1.11.0.min.js"></script>
+<script src="../js/libs/jquery.easing.1.3.js"></script>
+<script src="../js/libs/jquery.colorbox.js"></script>
+<script src="../js/libs/jquery.parallax-1.1.3.js"></script>
+<script src="../js/libs/jquery.touchSwipe.min.js"></script>
+<script src="../js/libs/jquery.transit.min.js"></script>
+<script src="../js/libs/jquery.carouFredSel-6.2.1-packed.js"></script>
+<script src="../js/libs/waypoints.min.js"></script>
+<script src="../js/outline.js"></script>
+<script src="../js/main.js"></script>
+<script src="../js/contact.js"></script>
+<!-- /[ SCRIPTS ] -->
+
+</body>
+</html>
